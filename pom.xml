@@ -42,10 +42,10 @@
                 <version>1.6.1</version>
                 <configuration>
                     <from>
-                        <image>localhost:6000/yx/openjdk:8</image>
+                        <image>10.75.23.48:6000/yx/openjdk:8</image>
                     </from>
                     <to>
-                        <image>localhost:6000/yx/haha</image>
+                        <image>10.75.23.48:6000/yx/haha</image>
                         <tags>
                             <tag>latest.prod</tag>
                         </tags>
